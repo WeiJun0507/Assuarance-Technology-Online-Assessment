@@ -1,0 +1,20 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Blue box shadow -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="@color/blue_shadow"
+                android:endColor="@color/blue_shadow_transparent"
+                />
+            <corners android:radius="24dp"/> <!-- Adjust radius as needed -->
+        </shape>
+    </item>
+    <!-- White gradient -->
+    <item android:bottom="10dp"> <!-- Adjust bottom padding to control the spread -->
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+            <corners android:radius="24dp"/>
+        </shape>
+    </item>
+</layer-list>

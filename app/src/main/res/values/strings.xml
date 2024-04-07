@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AssuaranceTechnologyAssessment</string>
+
+    <string name="welcome_title">Access more with an account</string>
+    <string name="welcome_desc">Login to an account so you could access more features</string>
+
+    <string name="movie_topic">Movie Topic</string>
+    <string name="movie_poster">Poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="movie_detail_title">Movie Detail Title</string>
+    <string name="movie_detail_poster">Movie Detail Poster</string>
+    <string name="back">Back</string>
+    <string name="movie_detail_category">Movie Detail Category</string>
+    <string name="plot_summary">Plot Summary</string>
+    <string name="plot_description">Plot Summary</string>
+    <string name="movie_detail_ratings">Movie Ratings</string>
+    <string name="welcome_back">Welcome back👋</string>
+    <string name="welcome_description">I am so happy to see you again. You can continue to login for more features.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up_description">Don\'t have an account?</string>
+    <string name="movie_detail_rating_percent">6.8/10</string>
+    <string name="movie_detail_rating_imdb_count">1 Rating</string>
+    <string name="movie_rating_title">Movie Rating Title</string>
+</resources>
